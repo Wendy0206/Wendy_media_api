@@ -180,7 +180,6 @@ let check_storage = JSON.parse(sessionStorage.getItem('allSongs'));
   return (
     <div className="player">
     
-    
       <img
         className="cover"
         alt="Current song cover"
